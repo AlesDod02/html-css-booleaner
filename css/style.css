@@ -5,6 +5,12 @@
     margin-bottom: 30px;
 }
 
+#background {height: 150px;
+    
+    
+    
+    
+}
 
 #parte-superiore {
     background-color: rgb(170, 197, 231) ;
@@ -64,17 +70,21 @@ th {
 #scritta-footer
 {
     color: rgb(255, 255, 255);
-    background-color: rgb(57, 57, 95);
-    height: 60px;
     text-align: center;
-    margin-top: 50px;
-    margin-left: 0px;
-}
+    padding-top: 20px;
 
+}
+footer{
+    background-color: #333a99;
+    height: 60px;
+    margin-top: 50px;
+    back
+
+   
+header{background-image:"pattern.png";}
 
 
 /* prima visione della parte superiore*/
-
 
 
 
