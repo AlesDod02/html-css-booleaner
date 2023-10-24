@@ -48,9 +48,12 @@ h6 {
  ul {
     margin-left: 177px;
  }
- table {margin-left: 200px;}
+ table {margin-left: 200px;
+       }
 
  th {color: rgb(255, 255, 255);}
+        
+    
 
  td {
     background-color: #a9c6dd;
@@ -66,7 +69,13 @@ th {
 #striscia-dispari
 {
     background-color: rgb(255, 255, 255);
+
 }
+#prima-colonna
+{
+    width: 400px;
+}
+
 #scritta-footer
 {
     color: rgb(255, 255, 255);
@@ -78,7 +87,7 @@ footer{
     background-color: #333a99;
     height: 60px;
     margin-top: 50px;
-    back
+}
 
    
 header{background-image:"pattern.png";}
