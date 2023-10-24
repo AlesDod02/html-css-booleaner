@@ -32,6 +32,40 @@
 h4 {margin-top: -20px;}
 
 h5 {margin-top: -20px;}
+h6 {
+    margin-top: 0px;
+    margin-left: 200px;
+    margin-bottom: 0px;
+}
+ p {margin-left: 200px;}
+
+ ul {
+    margin-left: 177px;
+ }
+ table {margin-left: 200px;}
+
+ th {color: rgb(255, 255, 255);}
+
+ td {
+    background-color: #a9c6dd;
+  }
+  table, th, td {
+    border: 1px rgb(250, 250, 250);
+}
+th {
+    background-color: #989de7;
+}
+
+#striscia-dispari
+{
+    background-color: rgb(255, 255, 255);
+}
+#scritta-footer
+{
+    color: rgb(255, 255, 255);
+    background-color: rgb(57, 57, 95);
+    
+}
 
 
 
