@@ -12,9 +12,7 @@
     
 }
 
-#parte-superiore {
-    background-color: rgb(170, 197, 231) ;
-} 
+
 
 
 #first-photo {
@@ -90,7 +88,9 @@ footer{
 }
 
    
-header{background-image:"pattern.png";}
+header{background-image:"pattern.png";
+background-color: #989de7;}
+
 
 
 /* prima visione della parte superiore*/
